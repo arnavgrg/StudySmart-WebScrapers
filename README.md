@@ -1,4 +1,4 @@
-#Scripts for StudySmart's backend
+# Scripts for StudySmart's backend
 
 ## libraryscraper.js
 
