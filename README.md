@@ -15,11 +15,11 @@ Each JSON object has the following structure:
 
 ```JSON
 {
-    "Building Name": "Powell Library"
-    "Room Number": "Group Study Room F"
-    "Capacity": 6
-    "Date": "February 5, 2019"
-    "Day": "Tuesday"
+    "Building Name": "Powell Library",
+    "Room Number": "Group Study Room F",
+    "Capacity": 6,
+    "Date": "February 5, 2019",
+    "Day": "Tuesday",
     "Start Time": "1:00PM"
 }
 ```
